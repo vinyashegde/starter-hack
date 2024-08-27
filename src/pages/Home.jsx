@@ -59,7 +59,7 @@ function Home() {
       {/* <Banner /> */}
 
       {/*  Site footer */}
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
